@@ -1,5 +1,5 @@
 # Smap
- 该方法实现了对领域知识地貌的刻画，提供了知识距离的连续性表征，为科学活动建模提供了出了知识网络之外的可选择的建模工具。We provide a method for constructing a semantic map (Smap).
+ 该方法实现了对领域知识地貌的刻画，提供了知识距离的连续性表征，为科学活动建模提供了出了知识网络之外的可选择的建模工具。We provide a method for constructing a semantic science map (Smap).
 
  ![Smap Flow Chart1](Imgs/Smap_Flow_Chart1.png)
  该分析框架包含四部分，科技文献预处理模块、Smap构建模块、层级结构探测和动态演化分析模块。
