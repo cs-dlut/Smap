@@ -9,3 +9,13 @@
 4. 结合交互技术绘制动态的历年领域地图，进一步可以展现领域发展态势和演化过程。累积地图有助于观察领域的形成和涌现，而切片地图有助于观察研究重心转移过程。
 
 ![Smap Flow Chart2](Imgs/Smap_Flow_Chart2.png)
+
+## 方法实现依赖包：
+
+* Doc2Vec: https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec
+
+* UMAP: 
+https://umap-learn.readthedocs.io/en/latest/index.html
+
+* Keybert:
+https://github.com/MaartenGr/KeyBERT
