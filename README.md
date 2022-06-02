@@ -15,10 +15,11 @@
 
 ## 方法实现依赖包
 
-* Doc2Vec: https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec
+* Doc2Vec: 
+https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec
 
 * UMAP: 
 https://umap-learn.readthedocs.io/en/latest/index.html
 
-* Keybert:
+* KeyBERT: 
 https://github.com/MaartenGr/KeyBERT
