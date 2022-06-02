@@ -1,5 +1,8 @@
 # Smap
+
  该方法实现了对领域知识地貌的刻画，提供了知识距离的连续性表征，为科学活动建模提供了出了知识网络之外的可选择的建模工具。We provide a method for constructing a semantic science map (Smap).
+
+## Smap构建流程简要说明
 
  ![Smap Flow Chart1](Imgs/Smap_Flow_Chart1.png)
  该分析框架包含四部分，科技文献预处理模块、Smap构建模块、层级结构探测和动态演化分析模块。
@@ -10,7 +13,7 @@
 
 ![Smap Flow Chart2](Imgs/Smap_Flow_Chart2.png)
 
-## 方法实现依赖包：
+## 方法实现依赖包
 
 * Doc2Vec: https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec
 
